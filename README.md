@@ -15,7 +15,7 @@ This repository contains a simple Image Annotation System.
 2. Run the following command to start the server:
 
     ```bash
-    http-server
+    http-server --cors -p 8080
     ```
 
 This will launch the server to serve the images.
