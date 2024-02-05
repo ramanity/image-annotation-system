@@ -1,0 +1,6 @@
+{
+    "normal": {"display_name": "Normal", "color": "rgba(0, 0, 0, 1)" },
+    "serrated": {"display_name": "Serrated", "color": "rgba(255, 0, 0, 1)"},
+    "adenocarcinoma": {"display_name": "Adenocarcinoma", "color": "rgba(0, 255, 0, 1)"},
+    "adenoma": {"display_name": "Adenoma", "color": "rgba(0, 0, 255, 1)"}
+}
